@@ -10,3 +10,10 @@ export default defineConfig({
     port: 3000
   }
 });
+export default {
+  build: {
+    rollupOptions: {
+      external: ['react/jsx-runtime']
+    }
+  }
+};
