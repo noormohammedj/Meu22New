@@ -1,0 +1,99 @@
+{
+  "categories": [
+    {
+      "id": "wedding",
+      "name": "Wedding Gowns",
+      "image": "/assets/wedding.jpg"
+    },
+    {
+      "id": "aari",
+      "name": "Aari Work",
+      "image": "/assets/aari.jpg"
+    },
+    {
+      "id": "duo",
+      "name": "Mother & Daughter Duo",
+      "image": "/assets/duo.jpg"
+    },
+    {
+      "id": "maternity",
+      "name": "Maternity Dresses",
+      "image": "/assets/maternity.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "wg-rose-aura",
+      "title": "Rose Aura Bridal Gown",
+      "price": 18999,
+      "category": "wedding",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "/assets/wg1.jpg",
+      "description": "Hand-tailored satin gown with chapel train and detachable sleeves.",
+      "aari": false
+    },
+    {
+      "id": "wg-ivory-veil",
+      "title": "Ivory Veil Mermaid",
+      "price": 24999,
+      "category": "wedding",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "image": "/assets/wg2.jpg",
+      "description": "Custom-fitted mermaid silhouette with boned corsetry.",
+      "aari": false
+    },
+    {
+      "id": "ar-noor",
+      "title": "Noor Aari Lehenga",
+      "price": 21999,
+      "category": "aari",
+      "sizes": [
+        "Custom"
+      ],
+      "image": "/assets/ar1.jpg",
+      "description": "Hand aari embroidered lehenga with zari and sequin work.",
+      "aari": true
+    },
+    {
+      "id": "duo-lilac-harmony",
+      "title": "Lilac Harmony Duo Set",
+      "price": 12999,
+      "category": "duo",
+      "sizes": [
+        "Kid-3-5",
+        "Kid-6-8",
+        "S",
+        "M",
+        "L"
+      ],
+      "image": "/assets/du1.jpg",
+      "description": "Matching mom & daughter set with soft tulle overlay.",
+      "aari": false
+    },
+    {
+      "id": "mt-blossom",
+      "title": "Blossom Nursing Dress",
+      "price": 6999,
+      "category": "maternity",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "/assets/mt1.jpg",
+      "description": "Maternity-friendly wrap with concealed nursing zips.",
+      "aari": false
+    }
+  ]
+}
